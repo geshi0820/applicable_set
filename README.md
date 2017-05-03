@@ -1,4 +1,5 @@
 # ApplicableSet
+sample code: https://github.com/geshi0820/applicable_set/blob/master/spec/applicable_set_spec.rb
 
 ![image](https://cloud.githubusercontent.com/assets/9958882/25654787/5fbda75e-302d-11e7-8174-19a28282c573.png)
 
