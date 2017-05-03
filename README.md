@@ -1,8 +1,7 @@
 # ApplicableSet
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/applicable_set`. To experiment with that code, run `bin/console` for an interactive prompt.
+![image](https://cloud.githubusercontent.com/assets/9958882/25654787/5fbda75e-302d-11e7-8174-19a28282c573.png)
 
-TODO: Delete this and the text above, and describe your gem
 
 ## Installation
 
